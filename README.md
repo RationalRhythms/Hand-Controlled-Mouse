@@ -19,6 +19,4 @@ This project uses MediaPipe hand tracking and OpenCV to control the mouse cursor
 * [MediaPipe](https://mediapipe.dev/) for hand tracking.
 * [OpenCV](https://opencv.org/) for video capture and image processing.
 * [autopy](https://github.com/autopilot-rs/autopy) for mouse control.
-* Inspired by open-source hand gesture recognition projects.
-
 ---
